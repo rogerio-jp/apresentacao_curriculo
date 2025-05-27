@@ -4,7 +4,7 @@ Este é meu projeto de portfólio pessoal, desenvolvido com HTML e CSS, com o ob
 
 ## 🔗 Acesse online
 
-Você pode ver o site publicado em: [https://rogerio-jp.github.io/portfolio](https://rogerio-jp.github.io/portfolio)
+Você pode ver o site publicado em: https://apresentacao-curriculo-snowy.vercel.app/
 
 ## 📁 Estrutura
 
